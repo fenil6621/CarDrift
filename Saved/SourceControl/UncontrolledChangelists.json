@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL ENGINE 5/CarDrift/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/HQ/JFSCDHM3DQXDWPJD8RHGWV.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"D:/UNREAL ENGINE 5/CarDrift/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset"
+			]
+		}
+	]
+}
